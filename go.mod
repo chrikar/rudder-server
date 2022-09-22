@@ -20,7 +20,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.1.1
 	github.com/denisenkom/go-mssqldb v0.10.0
 	github.com/dgraph-io/badger/v2 v2.2007.4
-	github.com/fsnotify/fsnotify v1.5.1
+	github.com/fsnotify/fsnotify v1.5.4
 	github.com/go-redis/redis v6.15.7+incompatible
 	github.com/gofrs/uuid v4.2.0+incompatible
 	github.com/golang-migrate/migrate/v4 v4.15.1
@@ -161,7 +161,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
 	golang.org/x/mod v0.4.2 // indirect
-	golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c // indirect
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/tools v0.1.6 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
