@@ -43,7 +43,7 @@ require (
 	github.com/onsi/gomega v1.10.3
 	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
-	github.com/rs/cors v1.7.0
+	github.com/rs/cors v1.9.0
 	github.com/rudderlabs/analytics-go v3.3.1+incompatible
 	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546
 	github.com/snowflakedb/gosnowflake v1.6.3
