@@ -26,7 +26,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.15.1
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
-	github.com/gomodule/redigo v1.8.5
+	github.com/gomodule/redigo v1.9.2
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-retryablehttp v0.7.0
@@ -50,7 +50,7 @@ require (
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/spf13/cast v1.3.1
 	github.com/spf13/viper v1.8.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.4
 	github.com/thoas/go-funk v0.9.1
 	github.com/tidwall/gjson v1.10.2
 	github.com/tidwall/sjson v1.0.4
@@ -170,5 +170,5 @@ require (
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
