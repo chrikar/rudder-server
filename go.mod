@@ -55,7 +55,7 @@ require (
 	github.com/tidwall/gjson v1.10.2
 	github.com/tidwall/sjson v1.0.4
 	github.com/xdg/scram v1.0.3
-	github.com/xitongsys/parquet-go v1.6.1-0.20210531003158-8ed615220b7d
+	github.com/xitongsys/parquet-go v1.6.2
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.19.1
 	golang.org/x/net v0.0.0-20211013171255-e13a2654a71e
@@ -74,7 +74,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/EagleChen/mapmutex v0.0.0-20180418073615-e1a5ae258d8d // indirect
 	github.com/apache/arrow/go/arrow v0.0.0-20211013220434-5962184e7a30 // indirect
-	github.com/apache/thrift v0.13.1-0.20201008052519-daf620915714 // indirect
+	github.com/apache/thrift v0.14.2 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.9.2 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.4.3 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.5.4 // indirect
