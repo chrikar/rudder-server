@@ -1,6 +1,6 @@
 module github.com/rudderlabs/rudder-server
 
-go 1.17
+go 1.23
 
 require (
 	cloud.google.com/go/bigquery v1.8.0
@@ -52,7 +52,7 @@ require (
 	github.com/spf13/viper v1.8.0
 	github.com/stretchr/testify v1.7.0
 	github.com/thoas/go-funk v0.9.1
-	github.com/tidwall/gjson v1.10.2
+	github.com/tidwall/gjson v1.19.0
 	github.com/tidwall/sjson v1.0.4
 	github.com/xdg/scram v1.0.3
 	github.com/xitongsys/parquet-go v1.6.1-0.20210531003158-8ed615220b7d
